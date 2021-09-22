@@ -1,6 +1,9 @@
 # Mahjong
 麻将游戏核心逻辑
 
+### 胡牌算法的实现
+src/com/a/Player.java: isVictory()
+
 ### Game.java
 游戏类，实现了：
 * 初始化牌库。只有万、条、饼三种牌，并且依次给每一个参赛的玩家初始化手牌。
